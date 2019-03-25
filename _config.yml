@@ -1,6 +1,8 @@
 layout: sidebar
 style: light
 
+repository: jarvis-kim/jarvis-kim.github.io
+
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
